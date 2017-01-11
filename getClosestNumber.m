@@ -1,5 +1,5 @@
 
-// MARK: Method
+// AUTHOR NOTE: This method returns the nearest number in an array relative to a specified targeted number
 
 - (NSNumber*)getClosestNumber:(NSArray*)dataSet targetToGetNear:(NSNumber*)target shouldRoundUpIfNeedBe:(bool)shouldRoundUp {
     
